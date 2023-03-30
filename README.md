@@ -1,4 +1,4 @@
-# java20_testing
+# Java 20 Sample tests
 Basic sample programs for 7 features on java 20
 
 
